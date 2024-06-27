@@ -17,22 +17,22 @@
 </p>
 
 ## Features
-- Play (almost) any song or video from YouTube Music
-- Background playback
-- Cache audio chunks for offline playback
-- Search for songs, albums, artists videos and playlists
-- Bookmark artists and albums
-- Import playlists
-- Fetch, display and edit songs lyrics or synchronized lyrics
-- Local playlist management
-- Reorder songs in playlist or queue
-- Light/Dark/Dynamic theme
-- Skip silence
-- Sleep timer
-- Audio normalization
-- Android Auto
-- Persistent queue
-- Open YouTube/YouTube Music links (`watch`, `playlist`, `channel`)
+- Reproduce (casi) cualquier canción o vídeo de YouTube Music
+- Reproducción en segundo plano
+- Caché de fragmentos de audio para reproducción sin conexión
+- Búsqueda de canciones, álbumes, vídeos de artistas y listas de reproducción.
+- Marcar artistas y álbumes.
+- Importar listas de reproducción
+- Buscar, mostrar y editar letras de canciones o letras sincronizadas
+- Gestión de listas de reproducción locales
+- Reordenar canciones en lista de reproducción o cola
+- Tema claro/oscuro/dinámico
+- Saltar el silencio
+- Tiempo de dormir
+- Normalización de audio
+-Android Auto
+- Cola persistente
+- Abrir enlaces de YouTube/YouTube Music (`ver`, `lista de reproducción`, `canal`)
 
 
 ## Expresiones de gratitud
