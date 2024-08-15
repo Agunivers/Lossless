@@ -1,7 +1,7 @@
 <div align="center">
     <img src="./app/src/main/ic_launcher-playstore.png" width="128" height="128" style="display: block; margin: 0 auto"/>
-    <h1>Lossless</h1>
-    <p>An Android application for streaming music from YouTube Music</p>
+    <h1>Lossless Music</h1>
+    <p>An Android application for streaming music from YouTube Music and Spotify</p>
 </div>
 
 ---
